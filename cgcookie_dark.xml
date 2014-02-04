@@ -227,7 +227,7 @@
     <view_3d>
       <ThemeView3D grid="#5c5c5c"
                    wire="#000000"
-                   wire_edit="#999999"
+                   wire_edit="#ffffff"
                    lamp="#00000028"
                    speaker="#000000"
                    camera="#000000"
